@@ -1,0 +1,62 @@
+.fed-nav {
+    color: aqua;
+}
+
+.fed-car {
+    border: 10px;
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+.lex-contact {
+    color: rgb(231, 114, 18);
+    background-position: center;
+}
+
+.fed-nav {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-image: url(../assets/fond/Beautiful_Books_1.jpeg);
+    background-size: 100%;
+    color: rgb(212, 116, 7);
+    background-position: center;
+    font-size: 20px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: ;
+
+}
+
+.lex-contact {
+    color: rgb(230, 135, 10);
+    background-position: center;
+    padding-top: 5%;
+}
+
+
+.stx-justify {
+    margin: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-contact {
+    text-align: center;
+    font-size: x-large;
+}
+
+.button-message {
+    text-align: center;
+    font-size: 27px;
+    padding-bottom: 4px;
+    margin-top: 0%;
+}

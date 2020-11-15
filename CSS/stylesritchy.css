@@ -1,0 +1,39 @@
+.fed-nav{
+    background-color: beige;
+}
+.fed-car{
+    border: 10px;
+     
+}
+h1{
+    color: darkgray;
+}
+
+.lex-contact {
+    color: rgb(231, 114, 18);
+    background-position: center;
+}
+
+.fed-nav{
+    background-color: beige;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../assets/fond/Beautiful_Books_1.jpeg);
+    background-size: 100%;
+    background-attachment: fixed,scroll;
+    color: rgb(199, 122, 122);
+}
+
+.lex-contact {
+    color: rgb(231, 114, 18);
+    background-position: center;
+}
+    .stx-justify{
+        margin: 20px;
+    text-align:center;
+}
+.panier{
+    color: bisque;
+}
